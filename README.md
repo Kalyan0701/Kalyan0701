@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Kalyan
+
  I believe that learning is an incredible opportunity for exploration and growth. 
  With a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and Business Intelligence (BI), 
  I am on a continuous journey to expand my knowledge and skills in these fields.
+ 
 - 👀 I’m fascinated by the potential of AI and ML in various domains, espicially healthcare and other industries.
 - 🌱 I’m currently keeping up with the latest trends and developments in AI, ML, and BI. 
 - 💞️ I'm always open to collaboration opportunities with like-minded individuals and teams. If you share a passion for AI, ML, or BI and 
