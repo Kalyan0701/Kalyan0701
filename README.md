@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kalyan
+**👋 Hi, I’m Kalyan**
 
  I believe that learning is an incredible opportunity for exploration and growth. 
  With a strong interest in Artificial Intelligence (AI), Machine Learning (ML), and Business Intelligence (BI), 
