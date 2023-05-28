@@ -7,7 +7,9 @@
 - 💞️ I'm always open to collaboration opportunities with like-minded individuals and teams. If you share a passion for AI, ML, or BI and 
  want to work together on exciting projects or research initiatives, I'd love to hear from you!
 - 📫 How to reach me:
+ 
       LinkedIn  : [Kalyan Khatry](https://www.linkedin.com/in/kalyan-khatry-9aa49a211/)
+      
       Email     : kalyankhatry2057@gmail.com
 Keeping up the enthusiasm and continuous learning. Wishing you all the best in your endeavors!
 
